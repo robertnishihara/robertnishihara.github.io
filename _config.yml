@@ -1,0 +1,11 @@
+# Site settings
+title: Robert Nishihara blog
+email: robertnishihara@gmail.com
+description: "This is my blog."
+baseurl: ""
+url: "http://robertnishihara.github.io"
+twitter_username: robertnishihara
+github_username:  robertnishihara
+
+# Build settings
+markdown: kramdown
